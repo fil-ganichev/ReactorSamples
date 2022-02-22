@@ -1,0 +1,8 @@
+embeededkafka:
+  listeners: "PLAINTEXT://localhost:3333"
+  port: "3333"
+  auto.create.topics.enable: "true"
+kafka:
+  bootstrap.servers: "localhost:3333"
+  group.id: "test"
+testProperty: "value"

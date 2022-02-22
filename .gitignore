@@ -1,0 +1,11 @@
+.idea
+.gradle
+*.iml
+!.gitignore
+*.lock
+*.log
+log/
+target/
+build/
+allure-results/
+.flattened*
